@@ -25,7 +25,7 @@
         <div class="fas fa-bars"></div>
         <nav class="navbar">
             <ul>
-                <li><a href="index.php">home</a></li>
+                <li><a href="#home">home</a></li>
                 <li><a href="aboutus.html">about</a></li>
                 <li><a href="pages/services.html">services</a></li>
                 <li><a href="pages/portfolio.html">portfolio</a></li>
