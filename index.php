@@ -26,11 +26,11 @@
         <nav class="navbar">
             <ul>
                 <li><a href="#home">home</a></li>
-                <li><a href="aboutus.html">about</a></li>
+                <li><a href="about-us.php">about</a></li>
                 <li><a href="pages/services.html">services</a></li>
                 <li><a href="pages/portfolio.html">portfolio</a></li>
                 <li><a href="#team">team</a></li>
-                <li><a href="careers.html">career</a></li>
+                <li><a href="careers.php">career</a></li>
                 <li><a href="#contact">contact</a></li>
                 <li><a href="#faq">FAQ</a></li>
             </ul>
