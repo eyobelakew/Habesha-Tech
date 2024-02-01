@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IT Company Website</title>
+    <title>Habesha Tech</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <script src="../../cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -26,9 +26,9 @@
         <nav class="navbar">
             <ul>
                 <li><a href="#home">home</a></li>
-                <li><a href="#about">about</a></li>
-                <li><a href="#service">services</a></li>
-                <li><a href="#portfolio">portfolio</a></li>
+                <li><a href="aboutus.html">about</a></li>
+                <li><a href="pages/services.html">services</a></li>
+                <li><a href="pages/portfolio.html">portfolio</a></li>
                 <li><a href="#team">team</a></li>
                 <li><a href="careers.html">career</a></li>
                 <li><a href="#contact">contact</a></li>
@@ -39,7 +39,7 @@
 
   <section id="home" class="home">
       <h1>Bring your Business Online</h1>
-      <h2>with IT Company Services</h2>
+      <h2>with Habesha Tech Services</h2>
     <div class="wave wave1"></div>
     <div class="wave wave2"></div>
     <div class="wave wave3"></div>
@@ -52,7 +52,7 @@
             <h3>We make creativity work for your brand!</h3>
             <p>Ours is a team of creatives that is brainstorming on great ideas,<b> all. the. time.</b><br>
                 With our skills put together, you get an ensemble capable of doing anything and everything your brand needs.</p>
-            <a href="#"><button class="btn">Read More</button></a>
+            <a href="pages/aboutus.html"><button class="btn">Read More</button></a>
         </div>
     </div>
   </section>
@@ -121,23 +121,23 @@
         <div class="section-head-1 col-sm-12" style="text-align: center;">
           <h4 style="margin-top: -5rem;" id="portfolio"><span>Our</span> Projects</h4>
           
-          <p>The objective of IT Company is to enable a large number of youth to take up <br>industry-relevant skill training that will help them<br> in securing a better livelihood.
+          <p>Invest in your digital future.<br> Contact Habesha Tech today and let us weave your brand story into a captivating online tapestry.<br> Building a more secure future
             </p>
         </div>
         
         <div class="col-lg-4 col-sm-6">
           
           <div class="item"> <span class="icon feature_box_col_four"><i class="fa fa-database"></i></span>
-            <h6>Project-1</h6>
+            <h6>Ahadu Vacancy</h6>
             
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor Aenean massa.<br><br><br></p>
+            <p>Ahadu-vacancy is the best job site in Ethiopia, with over 1500+ unique visitors every day. This website allows job seekers to view opportunities posted by different companies.<br><br><br></p>
           </div>
         </div>
         
         <div class="col-lg-4 col-sm-6">
           <div class="item"> <span class="icon feature_box_col_five"><i class="fa fa-upload"></i></span>
-            <h6>Project-2</h6>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor Aenean massa.<br><br><br></p>
+            <h6>Negus Media</h6>
+            <p>Negus Media provides the latest news and blogs on a wide range of topics! Users can find everything from world news to entertainment, lifestyle, technology, and more.<br><br><br></p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
@@ -271,16 +271,16 @@
   <div class="row">
       <div class="card">
           <div class="image">
-              <img src="images/pexels-andrea-piacquadio-845434.jpg" alt="Team member 1">
+              <img src="images/daniel.jpg" alt="Team member 1">
           </div>
           <div class="info">
-              <h3>Schott Watkins</h3>
+              <h3>Daniel Yetwale</h3>
               <span>Web Developer</span>
               <div class="icons">
-                  <a href="https://www.facebook.com/" class="fab fa-facebook-f"></a>
+                  <a href="mailto:danielyetwale03@gmail.com"></a>
                   <a href="https://twitter.com/login" class="fab fa-twitter"></a>
                   <a href="https://www.instagram.com/" class="fab fa-instagram"></a>
-                  <a href="https://www.linkedin.com/" class="fab fa-linkedin"></a>
+                  <a href="https://www.linkedin.com/in/daniel-kasse/" class="fab fa-linkedin"></a>
               </div>
           </div>
       </div>
@@ -291,7 +291,7 @@
               <img src="images/pexels-vinicius-wiesehofer-1130624.jpg" alt="Team member 1">
           </div>
           <div class="info">
-              <h3>Nicole Bell</h3>
+              <h3>Eyob Lakew</h3>
               <span>Mobile Developer</span>
               <div class="icons">
                   <a href="https://www.facebook.com/" class="fab fa-facebook-f"></a>
@@ -308,7 +308,7 @@
               <img src="images/pexels-hussein-altameemi-2776353.jpg" alt="Team member 1">
           </div>
           <div class="info">
-              <h3>John Doe</h3>
+              <h3>Ezra Assefa</h3>
               <span>Graphic Designer</span>
               <div class="icons">
                   <a href="https://www.facebook.com/" class="fab fa-facebook-f"></a>
@@ -319,7 +319,7 @@
           </div>
       </div>
   </div>
-  <div class="row">
+  <!-- <div class="row">
       <div class="card">
           <div class="image">
               <img src="images/pexels-andrea-piacquadio-745136.jpg" alt="Team member 1">
@@ -335,7 +335,7 @@
               </div>
           </div>
       </div>
-  </div>
+  </div> -->
 </section>
 
 <section id="contact" class="contact">
@@ -381,7 +381,7 @@
               <div class="accordion">
                   <div class="accordion-header">
                       <span>+</span>
-                      <h3>How long it takes to design?</h3>
+                      <h3>How long does it take to design?</h3>
                   </div>
                   <div class="accordion-body">
                       <p>The time limit of any assignment is normally dictated by the client. If you have any time limit in mind we will attempt to assemble it for you. 
@@ -391,7 +391,7 @@
               <div class="accordion">
                   <div class="accordion-header">
                       <span>+</span>
-                      <h3>How do I associate with IT Company?</h3>
+                      <h3>How do I associate with Habesha Tech?</h3>
                   </div>
                   <div class="accordion-body">
                       <p>The process begins when you contact us with your requirements. We analyze your requirements and respond to you. 
@@ -453,11 +453,11 @@
                   <div class="col-lg-3 col-md-6 footer-contact" style="font-size: 1.5rem;">
                       <h4>Contact Us</h4>
                       <p>
-                          1300  Center Avenue<br>
-                          Fresno, California<br>
-                          United States <br>
-                          <strong>Phone:</strong> +123-456-7890<br>
-                          <strong>Email:</strong> info@example.com<br>
+                          No. 87  Signal Mall<br>
+                          Bahir Dar, Amhara<br>
+                          Ethiopia <br>
+                          <strong>Phone:</strong> +2519 2346 7881<br>
+                          <strong>Email:</strong> habesha@tech.com<br>
                       </p>
 
                       <div class="social-links">
@@ -485,7 +485,7 @@
       <div class="container">
           <div class="row align-items-center">
               <div class="col-md-6 copyright" style="color: #fff; font-size: 1.3rem;">
-                  Copyright &copy; 2021 IT Company Website. All Rights Reserved.
+                  Copyright &copy; 2024 Habesha Tech. All Rights Reserved.
               </div>
           </div>
       </div>
