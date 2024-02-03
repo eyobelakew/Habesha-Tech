@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Logis Bootstrap Template - Index</title>
+  <title>Logis Bootstrap Template - Services</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -24,7 +24,7 @@
   <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <!-- <link href="assets/vendor/aos/aos.css" rel="stylesheet"> -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
@@ -39,96 +39,74 @@
 </head>
 
 <body>
+
+  <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-      <a href="index.php" class="logo d-flex align-items-center">
-        <img src="assets/img/logo.png" alt="" style="height: 60px !important;"> 
+
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <h1>Logis</h1>
       </a>
+
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index.php" class="active">Home</a></li>
-          <li><a href="about-us.php">About us</a></li>
-          <li><a href="services.php">Services</a></li>
-          <li><a href="portfolio.php">Portfolio</a></li>
-          <li><a href="team.php">Team</a></li>
-          <li><a href="contact-us.php">Contact</a></li>
-          <li><a href="faq.php">FAQ</a></li>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="services.html" class="active">Services</a></li>
+          <li><a href="pricing.html">Pricing</a></li>
+          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+            </ul>
+          </li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a class="get-a-quote" href="get-a-quote.html">Get a Quote</a></li>
         </ul>
-      </nav>
-    </div>
-  </header>
-
-  <!-- ======= Hero Section ======= -->
-  <style type="text/css">
-/*    .home{
-    min-height: 100vh;
-    width: 100vw;
-    background-image: url(../images/img1.jpg);
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-    text-align: center;
-    padding: 0 1rem;
-    position: relative;
-    overflow: hidden !important;
-}*/
-
-  </style>
-  <section id="hero" class="hero d-flex align-items-center home">
-    <div class="container">
-      <div class="text-center">
-         <h2 style="text-shadow:2px 2px 5px #000">Bring Your Business Online</h2>
-         <h4 style="text-shadow:2px 2px 5px #000">With Habesha Tech Services</h4>
-        
-      </div>
+      </nav><!-- .navbar -->
 
     </div>
-    <style type="text/css">
-      
-.home .wave{
-    position: absolute;
-    bottom: -.5rem;
-    left: 0;
-    height: 6rem;
-    width: 100%;
-    background: url(../../images/wave.png);
-    background-size: 100rem 6rem;
-    animation: waves 8s linear infinite;
-    background-repeat: repeat-x;
-}
-
-.home .wave2{
-    animation-direction: reverse;
-    animation-duration: 6s;
-    opacity: .3;
-}
-
-.home .wave3{
-    animation-duration: 4s;
-    opacity: .5;
-}
-
-@keyframes waves{
-    0%{
-        background-position-x: 0;
-    }
-    100%{
-        background-position-x: 100rem;
-    }
-}
-
-
-    </style>
-
-    <div class="wave wave2"></div>
-    <div class="wave wave3"></div>
-  </section><!-- End Hero Section -->
+  </header><!-- End Header -->
+  <!-- End Header -->
 
   <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs">
+      <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpg');">
+        <div class="container position-relative">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 text-center">
+              <h2>Services</h2>
+              <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.html">Home</a></li>
+            <li>Services</li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs -->
 
     <!-- ======= Featured Services Section ======= -->
     <section id="featured-services" class="featured-services">
@@ -168,49 +146,6 @@
 
       </div>
     </section><!-- End Featured Services Section -->
-
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-0">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row gy-4">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
-          </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
-            <h3>About Us</h3>
-            <p>
-              Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti. Sit quia molestiae quia quas qui magnam itaque veritatis dolores. Corrupti totam ut eius incidunt reiciendis veritatis asperiores placeat.
-            </p>
-            <ul>
-              <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-diagram-3"></i>
-                <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-fullscreen-exit"></i>
-                <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-broadcast"></i>
-                <div>
-                  <h5>Voluptatem et qui exercitationem</h5>
-                  <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime veniam</p>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Us Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="service" class="services pt-0">
@@ -289,21 +224,6 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Call To Action Section ======= -->
-    <section id="call-to-action" class="call-to-action">
-      <div class="container" data-aos="zoom-out">
-
-        <div class="row justify-content-center">
-          <div class="col-lg-8 text-center">
-            <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <a class="cta-btn" href="#">Call To Action</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Call To Action Section -->
-
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container">
@@ -380,68 +300,6 @@
 
       </div>
     </section><!-- End Features Section -->
-
-    <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing pt-0">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-header">
-          <span>Pricing</span>
-          <h2>Pricing</h2>
-
-        </div>
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="pricing-item">
-              <h3>Free Plan</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
-              <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-              <a href="#" class="buy-btn">Buy Now</a>
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="pricing-item featured">
-              <h3>Business Plan</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
-              <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bi bi-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bi bi-check"></i> Massa ultricies mi quis hendrerit</li>
-              </ul>
-              <a href="#" class="buy-btn">Buy Now</a>
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
-            <div class="pricing-item">
-              <h3>Developer Plan</h3>
-              <h4><sup>$</sup>49<span> / month</span></h4>
-              <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bi bi-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bi bi-check"></i> Massa ultricies mi quis hendrerit</li>
-              </ul>
-              <a href="#" class="buy-btn">Buy Now</a>
-            </div>
-          </div><!-- End Pricing Item -->
-
-        </div>
-
-      </div>
-    </section><!-- End Pricing Section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
