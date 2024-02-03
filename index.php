@@ -52,7 +52,6 @@
           <li><a href="about-us.php">About us</a></li>
           <li><a href="services.php">Services</a></li>
           <li><a href="portfolio.php">Portfolio</a></li>
-          <li><a href="team.php">Team</a></li>
           <li><a href="contact-us.php">Contact</a></li>
           <li><a href="faq.php">FAQ</a></li>
         </ul>
