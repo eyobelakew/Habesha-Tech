@@ -20,19 +20,20 @@
     <script src="js/main.js"></script>
 </head>
 <body>
-    <header class="header">
+    <header class="header" style="background-color:black; opacity:0.6;">
         <a href="#" class="logo"><img src="images/image.png" alt=""></a>
-        <div class="fas fa-bars"></div>
+        <div class="fa fa-bars">hh</div>
+        <i class="fa fa-bars"></i>
         <nav class="navbar">
             <ul>
-                <li><a href="#home">home</a></li>
-                <li><a href="about-us.php">about</a></li>
-                <li><a href="pages/services.html">services</a></li>
-                <li><a href="pages/portfolio.html">portfolio</a></li>
-                <li><a href="#team">team</a></li>
-                <li><a href="careers.php">career</a></li>
-                <li><a href="#contact">contact</a></li>
-                <li><a href="#faq">FAQ</a></li>
+                <li><a href="#home" style="text-decoration:none;">home</a></li>
+                <li><a href="about-us.php" style="text-decoration:none;">about</a></li>
+                <li><a href="pages/services.html" style="text-decoration:none;">services</a></li>
+                <li><a href="pages/portfolio.html" style="text-decoration:none;">portfolio</a></li>
+                <li><a href="#team" style="text-decoration:none;">team</a></li>
+                <li><a href="careers.php" style="text-decoration:none;">career</a></li>
+                <li><a href="#contact" style="text-decoration:none;">contact</a></li>
+                <li><a href="#faq" style="text-decoration:none;">FAQ</a></li>
             </ul>
         </nav>
     </header>
@@ -494,6 +495,13 @@
   </div>
 
   <a href="#" class="back-to-top"><i class="ion-ios-arrow-up"></i></a>
+
+
+
+
+
+
+
 
   <script type="text/javascript">
 	$(document).ready(function(){
