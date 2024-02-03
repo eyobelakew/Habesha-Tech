@@ -60,24 +60,6 @@
     </div>
   </header>
 
-  <!-- ======= Hero Section ======= -->
-  <style type="text/css">
-/*    .home{
-    min-height: 100vh;
-    width: 100vw;
-    background-image: url(../images/img1.jpg);
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-    text-align: center;
-    padding: 0 1rem;
-    position: relative;
-    overflow: hidden !important;
-}*/
-
-  </style>
   <section id="hero" class="hero d-flex align-items-center home">
     <div class="container">
       <div class="text-center">
@@ -95,7 +77,7 @@
     left: 0;
     height: 6rem;
     width: 100%;
-    background: url(../../images/wave.png);
+    background: url(assets/img/wave.png);
     background-size: 100rem 6rem;
     animation: waves 8s linear infinite;
     background-repeat: repeat-x;
@@ -701,14 +683,11 @@
       </div>
     </div>
 
-  </footer><!-- End Footer -->
-  <!-- End Footer -->
+  </footer>
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-  <div id="preloader"></div>
 
-  <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
