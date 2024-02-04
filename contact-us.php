@@ -91,7 +91,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h4>Email:</h4>
-                <p>habesha@tech.com</p>
+                <p>info@habeshatech.org</p>
               </div>
             </div><!-- End Info Item -->
 
