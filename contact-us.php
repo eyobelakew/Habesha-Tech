@@ -73,8 +73,8 @@
       <div class="container" data-aos="fade-up">
 
         <div>
-          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
-        </div><!-- End Google Maps -->
+            <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d290.5008003773562!2d37.385625778314306!3d11.587850619084804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1644d15bafdb9f4b%3A0xa3a02a249c3da1ec!2sEgoli!5e0!3m2!1sen!2set!4v1707037051943!5m2!1sen!2set" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          </div><!-- End Google Maps -->
 
         <div class="row gy-4 mt-4">
 
