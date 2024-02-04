@@ -75,7 +75,6 @@
         <div>
             <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1954.2480482007309!2d37.384549568962214!3d11.587937141200651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1644d15bafdb9f4b%3A0xa3a02a249c3da1ec!2sEgoli!5e0!3m2!1sen!2set!4v1707037254754!5m2!1sen!2set" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
           </div><!-- End Google Maps -->
-
         <div class="row gy-4 mt-4">
 
           <div class="col-lg-4">
@@ -84,7 +83,7 @@
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Egoli</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -92,7 +91,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>info@habeshatech.org</p>
               </div>
             </div><!-- End Info Item -->
 
