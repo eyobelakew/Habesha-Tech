@@ -363,13 +363,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-</section>
-
-
-
-
-
-
+    </section>
   </main>
 
   <?php include "includes/footer.php"; ?>
