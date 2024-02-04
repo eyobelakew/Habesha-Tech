@@ -330,9 +330,9 @@
           <div class="col-md-2"></div>
           <div class="col-md-4">
             <p class="badge text-bg-secondary ms-5">Language</p>
-            <h3 class="ms-5">Monalisa</h3>
-            <p class="ms-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, placeat. Sapiente cum modi temporibus illum nihil, magni, consequuntur sit nemo tempora odit deleniti exercitationem fugiat delectus nostrum rerum expedita inventore?</p>
-            <a href="" target="_blank" class="ms-5 btn btn-primary">OPEN WEBSITE</a>
+            <h3 class="ms-5">Ahadu Vacancy</h3>
+            <p class="ms-5">Ahadu-vacancy is the best job site in Ethiopia, with over 1500+ unique visitors every day. This website allows job seekers to view opportunities posted by different companies.</p>
+            <a href="https://ahaduvacancy.com/" target="_blank" class="ms-5 btn btn-primary">OPEN WEBSITE</a>
           </div>
           <div class="col-md-6 mt-4 text-center">
             <img src="assets/img/clients/ahadu-vacancy.png" style="width:80%;">
@@ -344,9 +344,9 @@
           <div class="col-md-2"></div>
           <div class="col-md-4">
             <p class="badge text-bg-secondary ms-5">Language</p>
-            <h3 class="ms-5">Monalisa</h3>
-            <p class="ms-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, placeat. Sapiente cum modi temporibus illum nihil, magni, consequuntur sit nemo tempora odit deleniti exercitationem fugiat delectus nostrum rerum expedita inventore?</p>
-            <a href="" target="_blank" class="ms-5 btn btn-primary">OPEN WEBSITE</a>
+            <h3 class="ms-5">Negus Media</h3>
+            <p class="ms-5">Negus Media provides the latest news and blogs on a wide range of topics! Users can find everything from world news to entertainment, lifestyle, technology, and more.</p>
+            <a href="https://negusmedia.net/" target="_blank" class="ms-5 btn btn-primary">OPEN WEBSITE</a>
           </div>
           <div class="col-md-6 mt-4 text-center">
             <img src="assets/img/clients/negus-media.png" style="width:80%;">

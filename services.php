@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Logis Bootstrap Template - Services</title>
+  <title>Habesha Tech</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <?php include "includes/top-nav-logo.php"; ?>
@@ -55,7 +55,7 @@
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
               <h2>Services</h2>
-              <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+              <p>Discover a variety of services tailored just for you. Our commitment to exceptional experiences is backed by top-notch customer support, making us your trusted partner in all your needs.</p>
             </div>
           </div>
         </div>

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Company Portfolio - Habesha Tech</title>
+  <title>Habesha Tech</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <?php include "includes/top-nav-logo.php"; ?>
@@ -59,10 +59,8 @@
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
-              <h2>Company Portfolio</h2>
-              <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut
-                a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum
-                dolorem.</p>
+              <h2>Portfolio</h2>
+              <p>Hotels captivate, brands resonate, ideas ignite. Explore our portfolio to see how we craft digital experiences that drive results. Let's unlock your potential - dive in!</p>
             </div>
           </div>
         </div>
