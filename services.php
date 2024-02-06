@@ -78,10 +78,10 @@
       <div class="col-lg-6">
         <h2 class="text-center" style="color: #001F8D;">Check Domain Availability</h2>
         <div class="input-group mb-3">
-          <input type="text" id="domain-name" class="form-control form-control-sm" placeholder="Domain" style="width: 200px; border-color: #001F8D;">
-          <div class="input-group-append">
+          <input type="text" id="domain-name" class="form-control form-control-sm" placeholder="domain.com" style="width: 200px; border-color: #001F8D;">
+          <div class="input-group-append" style="z-index: 9999; position:relative">
             <div class="dropdown">
-              <button class="btn btn-primary btn-sm dropdown-toggle" type="button" id="domain-type-dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+              <button class="btn btn-primary btn-sm dropdown-toggle" type="button" id="domain-type-dropdown" data-bs-toggle="dropdown" aria-expanded="false" style="color:black;background-color: white; border-color: white">
                 .com
               </button>
               <ul class="dropdown-menu" aria-labelledby="domain-type-dropdown">
@@ -96,7 +96,7 @@
               </ul>
             </div>
           </div>
-          <button class="btn btn-primary btn-sm" id="check-domain-btn">Check</button>
+          <button class="btn btn-primary btn-sm" id="check-domain-btn" style="color: black;background-color: white; border-color: white">Check</button>
         </div>
         <div id="domain-result" class="text-center"></div>
       </div>
@@ -143,39 +143,34 @@
 
 
 <section class="hosting">
-<div class="container">
-<div class="row justify-content-center">
-  <center>
-<div class="row gy-4">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-12">
+        <div class="row gy-4">
 
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
- 
-    <div class="card-img text-center">
-      <img src="assets/img/keyboard.png"
-        style="margin-top: 30px; margin-bottom: 30px; height: 5rem; width: 5rem; border-radius: 50%; box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3); display: block; margin-left: auto; margin-right: auto;">
+          <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-img text-center">
+              <img src="assets/img/cloud-computing.png"
+                style="margin-top: 30px; margin-bottom: 30px; height: 5rem; width: 5rem; border-radius: 50%; box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3); display: block; margin-left: auto; margin-right: auto;">
+            </div>
+            <h3 class="text-center">WEB HOSTING</h3>
+            <p>We provide the fastest website hosting and also domain registration in Ethiopia, Latest speed technologies are our passion. Unique security solutions are our specialty. Amazing technical support is our pride.</p>
+          </div>
+
+          <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-img text-center">
+              <img src="assets/img/coding.png"
+                style="margin-top: 30px; margin-bottom: 30px; height: 5rem; width: 5rem; border-radius: 50%; box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3); display: block; margin-left: auto; margin-right: auto;">
+            </div>
+            <h3 class="text-center">WEBSITE DESIGN</h3>
+            <p>Designs a virtual identity for your successful business. For example joomla development, WordPress design, eCommerce website design with quality web design</p>
+          </div>
+        </div>
+      </div>
     </div>
-    <h3>WEB HOSTING</h3>
-    <p>We provide the fastest website hosting and also domain registration in Ethiopia, Latest speed technologies are our passion. Unique security solutions are our specialty. Amazing technical support is our pride.</p>
   </div>
-  
-
-
-  <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-  
-    <div class="card-img text-center">
-      <img src="assets/img/keyboard.png"
-        style="margin-top: 30px; margin-bottom: 30px; height: 5rem; width: 5rem; border-radius: 50%; box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3); display: block; margin-left: auto; margin-right: auto;">
-    </div>
-    <h3>WEBSITE DESIGN
-</h3>
-    <p>Designs a virtual identity for your successful business. For example joomla development, WordPress design, eCommerce website design with quality web design</p>
-  </div>
-  </center>
-</div>  
-
-</div>
-  
 </section>
+
 
 
     <!-- ======= Featured Services Section ======= -->
